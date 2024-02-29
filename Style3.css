@@ -1,0 +1,41 @@
+{
+margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+body{width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(169, 63, 127);
+    
+
+}
+.envelope{
+display: flex;
+flex-direction: column;
+text-align: center;
+align-items: center;
+gap: 15px;
+max-width: 500px;
+}
+.container.tenor-gif-embed{
+    display: flex;
+    gap: 25px;
+}
+.container.btn{
+    display: flex;
+    gap: 25px;
+}
+.btn a{
+    text-decoration: none;
+    color: black;
+    background: powderblue;
+    padding: 10px 25px;
+    border-radius: 8px;
+    box-shadow: 0.5rem 1 rem 3rem hsl(hue, saturation, lightness);
+} 
