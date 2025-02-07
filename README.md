@@ -33,8 +33,10 @@ Example Preview
 [Accept] [Politely Decline (if you can catch it!)]
 
 Contribution
+
 Feel free to fork this project, improve the design, and share your version!
 
 License
+
 This project is open-source and free to use for personal and romantic endeavors. ❤️
 
